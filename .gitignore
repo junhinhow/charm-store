@@ -1,0 +1,9 @@
+*.exe
+*.test
+*.out
+coverage.out
+/dist/
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
